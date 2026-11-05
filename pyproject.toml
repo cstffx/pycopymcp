@@ -1,11 +1,12 @@
 [project]
 name = "pycopymcp"
 version = "0.1.0"
-description = "MCP server cuya única finalidad es copiar contenido al portapapeles"
+description = "MCP server that lets an AI agent copy text to the clipboard"
 readme = "README.md"
-license = { text = "MIT" }
-keywords = ["mcp", "clipboard", "portapapeles"]
+license = { text = "Apache-2.0" }
+keywords = ["mcp", "clipboard", "agent"]
 requires-python = ">=3.10"
+classifiers = ["License :: OSI Approved :: Apache Software License"]
 dependencies = ["mcp>=1.2.0,<2"]
 
 [project.scripts]
