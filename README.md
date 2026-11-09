@@ -1,6 +1,7 @@
 # pycopymcp
 
 [![CI](https://github.com/cstffx/pycopymcp/actions/workflows/ci.yml/badge.svg)](https://github.com/cstffx/pycopymcp/actions/workflows/ci.yml)
+[![M8ven Score](https://m8ven.ai/badge/mcp/cstffx-pycopymcp-1ggyxv?v=034d4f3da9b2ed2335ce8b93110d9fa2)](https://m8ven.ai/mcp/cstffx-pycopymcp-1ggyxv?s=readme)
 
 Let an AI agent copy text straight to your clipboard.
 
